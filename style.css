@@ -1,0 +1,60 @@
+body {
+	background-color: #FFF;
+}
+
+h1 {
+	font-size: 3.5rem;
+	font-weight: 700;
+	letter-spacing: 1rem;
+}
+
+.navbar {
+	position: fixed;
+	width: 100%;
+	z-index: 999;
+}
+
+.middle-text { 
+	transform: translateY(45vh);
+}
+
+.text-white {
+	color: #fff;
+}
+
+.border-shadow {
+	text-shadow: 2px 2px;
+}
+
+.border-shadow-bottom {
+	text-shadow: 2px 2px 4px #555;
+}
+
+.landing-hero {
+	background-image: url("images/wedding_cake.jpeg");
+	background-repeat:no-repeat;
+/*    background-size:cover;
+    background-position: 0 50%;*/
+	height: 800px;
+	background-color: #967bb6;
+}
+
+.container {
+	margin-left: 2vw;
+	margin-right: 2vw;
+}
+
+.landing-image {
+	width: 40%;
+}
+
+.footer {
+	background-color: black;
+	color: white;
+	height: 100px;
+}
+
+.order-button {
+	background-color: black;
+	color: white;
+}
